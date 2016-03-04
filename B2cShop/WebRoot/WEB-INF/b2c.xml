@@ -1,0 +1,14 @@
+<config>  
+	<DB>
+		<DB_Driver>oracle.jdbc.driver.OracleDriver</DB_Driver>
+		<DB_Way>jdbc:oracle:thin</DB_Way>
+		<DB_Host>10.25.85.75</DB_Host>
+		<DB_Port>1521</DB_Port>
+		<DB_Sid>oracle</DB_Sid>
+		<DB_User>b2c</DB_User>
+		<DB_Password>shop</DB_Password>
+	</DB>
+	<Site>
+		<Page_Count>10</Page_Count>
+	</Site>
+</config>  
